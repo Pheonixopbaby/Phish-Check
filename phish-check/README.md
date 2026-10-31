@@ -12,6 +12,3 @@ A static site that analyzes URLs for common phishing indicators to provide a ris
 - This tool performs **static analysis** only. It does not visit the URL or make network requests.
 - It is a heuristic tool; it can produce false positives and false negatives.
 - Never enter sensitive credentials into a site just because a tool gave it a low score.
-
-## What I Learned
-(Fill this in after completing the project)
